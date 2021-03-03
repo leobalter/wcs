@@ -2461,6 +2461,11 @@
     "@webassemblyjs/wast-parser" "1.9.0"
     "@xtuc/long" "4.2.2"
 
+"@webcomponents/scoped-custom-element-registry@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@webcomponents/scoped-custom-element-registry/-/scoped-custom-element-registry-0.0.1.tgz#196365260a019f87bddbded154ab09faf0e666fc"
+  integrity sha512-ef5/v4U2vCxrnSMpo41LSWTjBOXCQ4JOt4+Y6PaSd8ympYioPhOP6E1tKmIk2ppwLSjCKbTyYf7ocHvwDat7bA==
+
 "@xtuc/ieee754@^1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@xtuc/ieee754/-/ieee754-1.2.0.tgz#eef014a3145ae477a1cbc00cd1e552336dceb790"

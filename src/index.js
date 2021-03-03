@@ -1,4 +1,4 @@
-import 'polyfill/scer';
+import '@webcomponents/scoped-custom-element-registry';
 import { createElement } from 'lwc';
 import MyApp from 'my/app';
 
